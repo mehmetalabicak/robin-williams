@@ -1,0 +1,103 @@
+body{
+   
+background: linear-gradient(to right, #4CA1AF, #2C3E50); 
+
+    
+    color: white;
+}
+
+.container{
+
+width: 80%;
+background-color:rgba(141, 186, 166, 0.3);
+margin: auto;
+border-radius: 20px;
+}
+
+.heading{
+
+    font-family: 'Lobster', cursive;
+    }
+
+#title{
+   font-size: 90px; 
+   text-align: center;
+}
+
+#span1{
+    
+    color: red;
+}
+
+#date{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color:crimson;
+}
+
+#img-div{
+    
+    text-align: center;
+}
+
+#image{
+    width: 800px;
+    border-radius: 20px;
+    
+    
+}
+
+#info{
+    width: 80%;
+   margin: 20px auto;
+   text-align: justify; 
+   font-size: 22px;
+   /* line-height: 2,5px; */
+   
+}
+
+.span3{
+    font-size: 30px;
+    color: crimson;
+    font-family: 'Lobster', cursive;
+}
+
+#yapıt{
+
+    color: crimson;
+    margin-left: 120px;
+    font-size: 30px;
+}
+
+ul{
+
+    width: 80%;
+    margin:auto;
+
+
+    }
+
+li{
+    font-size: 20px;
+    line-height: 50px;
+
+}
+#footer{
+
+    margin-left: 80px;
+    padding: 40px;
+    font-size: 26px;
+    color: rgb(26, 1, 120);
+  
+
+
+}
+
+#link{
+    text-decoration: none;
+    border: 1px solid orange;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: rgb(255, 170, 127);
+}
